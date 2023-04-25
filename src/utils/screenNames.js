@@ -1,0 +1,5 @@
+export default {
+        SPLASH_SCREEN: 'SPLASH SCREEN',
+        GET_INFO_SCREEN: 'GET INFO SCREEN',
+        DISPLAY_INFO_SCREEN: 'DISPLAY INFO SCREEN'
+};
